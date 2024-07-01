@@ -1,0 +1,1 @@
+Java Scanner class provides more utility methods compare to BufferedReader class. Java Scanner class provides the nextLine() method to facilitates line by line of file's content. The nextLine() methods returns the same String as readLine() method. The Scanner class can also read a file form InputStream.
